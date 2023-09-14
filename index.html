@@ -21,9 +21,37 @@
 <body>
   <div id="titlebar">
     <span id="clock"> </span>
-
+    <div class="dot themes"></div>
+    <div class="dot list"></div>
   </div>
 
+  <div id="terminal-content">
+
+    <p id="prompt" class="prompt"><span class="purple material-icons md-36">chevron_right</span></p>
+
+    <div id="links">
+      <!-- Added sites goes here -->
+    </div>
+
+    <div style="display:flex;" id="shit">
+
+      <div id="input-prompt">
+          <p id="prompt" class="prompt"><span class="purple material-icons md-36">chevron_right</span></p>
+      </div>
+
+      <input type="text" placeholder="..." id="prompt-input" autofocus class="prompt-input" onkeydown="" spellcheck="false" />
+
+    </div>
+  </div>
 </body>
+
+<script src="js/browser-ver.js"></script>
+<script src="js/consts.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/writers.js"></script>
+<script src="js/commands.js"></script>
+<script src="js/main.js"></script>
+<script src="js/helpers.js"></script>
+
 
 </html>
