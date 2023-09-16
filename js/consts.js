@@ -44,6 +44,10 @@ const THEMES = [
   "ocean",
   "fire",
   "earth",
+  "sky",
+  "space",
+  "candy",
+  "rainbow",
 ];
 
 /*
