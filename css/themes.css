@@ -114,34 +114,34 @@ body.earth {
   --acc2: #73D0FF;
 }
 
-body.sky {
-  --bg: #1C1C1C;
-  --bg-light: #2C2C2C;
-  --fg: #D0D0D0;
-  --acc1: #B8D68C;
-  --acc2: #73D0FF;
+body.sky { 
+  --bg: #0243bb;
+  --bg-light: #188ddb;
+  --fg: #ffffff;
+  --acc1: #ff7f7b;
+  --acc2: #efb3f7;
 }
 
 body.space {
-  --bg: #1C1C1C;
-  --bg-light: #2C2C2C;
-  --fg: #D0D0D0;
-  --acc1: #B8D68C;
-  --acc2: #73D0FF;
+  --bg: #000000;
+  --bg-light: #1a1a1a;
+  --fg: #ffffff;
+  --acc1: #6e00fd;
+  --acc2: #c59205;
 }
 
 body.candy {
-  --bg: #1C1C1C;
-  --bg-light: #2C2C2C;
-  --fg: #D0D0D0;
-  --acc1: #B8D68C;
-  --acc2: #73D0FF;
+  --bg: #ffa620;
+  --bg-light: #ffbb54;
+  --fg: #ffffff;
+  --acc1: #ff7f7b;
+  --acc2: #efb3f7;
 }
 
 body.rainbow {
-  --bg: #1C1C1C;
-  --bg-light: #2C2C2C;
-  --fg: #D0D0D0;
-  --acc1: #B8D68C;
-  --acc2: #73D0FF;
+  --bg: #ff0000;
+  --bg-light: #ff0000;
+  --fg: #2ab300;
+  --acc1: #0004d3;
+  --acc2: #af07c5;
 }
