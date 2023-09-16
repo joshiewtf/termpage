@@ -130,18 +130,18 @@ body.space {
   --acc2: #c59205;
 }
 
-body.candy {
-  --bg: #ffa620;
-  --bg-light: #ffbb54;
+body.candy-ugly {
+  --bg: #6d4305;
+  --bg-light: #ad8851;
   --fg: #ffffff;
-  --acc1: #ff7f7b;
-  --acc2: #efb3f7;
+  --acc1: #d34dab;
+  --acc2: #73a7e2;
 }
 
 body.rainbow {
-  --bg: #ff0000;
-  --bg-light: #ff0000;
+  --bg: #630404;
+  --bg-light: #962f2f;
   --fg: #2ab300;
-  --acc1: #0004d3;
-  --acc2: #af07c5;
+  --acc1: #c83beb;
+  --acc2: #b4b100;
 }
