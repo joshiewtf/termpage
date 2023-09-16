@@ -20,6 +20,9 @@ const ENGINES = {
   ddg: "https://www.duckduckgo.com/?q=",
   bing: "https://www.bing.com/search?q=",
   yahoo: "https://www.search.yahoo.com/search?p=",
+  ecosia: "https://www.ecosia.org/search?q=",
+  qwant: "https://www.qwant.com/?q=",
+  startpage: "https://www.startpage.com/do/search?q=",
 };
 
 /*
