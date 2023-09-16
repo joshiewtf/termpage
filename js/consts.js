@@ -40,6 +40,10 @@ const THEMES = [
   "vice",
   "decaf",
   "pastel",
+  "forest",
+  "ocean",
+  "fire",
+  "earth",
 ];
 
 /*
